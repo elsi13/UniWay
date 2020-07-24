@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">UniWay</string>
+    <string name="logo">UniWay Logo</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="log_in_button">Log In</string>
+    <string name="guest_button">Continue as Guest</string>
+    <string name="username_label">~username~</string>
+    <string name="universal_lable">Universal Label</string>
+    <string name="profile_label">Profile</string>
+    <string name="profile_description">Name: PhD student Maria, studying Mobile HCI at the University
+        of Glasgow. She loves a good evening at the pub with a glass of wine.</string>
+    <string name="profile_image_description">Profile image</string>
+    <string name="points_button">Points:</string>
+    <string name="challenges_button">Challenges:</string>
+    <string name="friends_button">Friends: </string>
+    <string name="points_number_text">13</string>
+    <string name="friends_number_text">3</string>
+    <string name="challenges_number_text">5</string>
+    <string name="group_label">Groups</string>
+    <string name="my_groups">My Groups: </string>
+    <string name="join_button">Join</string>
+    <string name="create_button">Create</string>
+    <string name="edit_field_groups">Name of a group</string>
+    <string name="settings_label">Settings</string>
+    <string name="friends_header">Your Friends List</string>
+    <string name="tour_mode_label">Tour Mode</string>
+    <string name="ar_button">Go to AR view</string>
+    <string name="challenge_button">Challenge 1</string>
+    <string name="challenge1_label">Challenge 1</string>
+    <string name="challenge_description">Find Glasgow University Union. Enter the Union and go to
+        the reception. Get yourself free membership card. Take picture of the card.</string>
+    <string name="points_to_gain">Points to gain for the challenge:</string>
+    <string name="submission">Enter the submission:</string>
+    <string name="submit_button">Submit</string>
+    <string name="back_button">Back</string>
+    <string name="challenges_label">Challenges</string>
+</resources>
